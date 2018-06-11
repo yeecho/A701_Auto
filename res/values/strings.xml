@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">整机测试</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">提交测试</string>
+	<string name="pass">PASS</string>
+    <string name="fail">FAIL</string>
+    <string name="test_dialog_title">%s测试是否通过？</string>
+    <string name="test_confirm_dialog_title">本机已经通过了测试，是否再测一遍？</string>
+    <string name="confirm_cancel">取消</string>
+    <string name="confirm_continue">继续</string>
+    <string name="stress_test">压力测试</string>
+    <string name="qr_info">二维码</string>
+</resources>

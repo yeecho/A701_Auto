@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FF666666</color>
+    
+    <color name="red">#FFB20000</color>
+    <color name="green">#FF006600</color>
+    
+    <color name="green_lcd">#FFFF0000</color>
+    <color name="red_lcd">#FF00FF00</color>
+    <color name="blue_lcd">#FF0000FF</color>
+    <color name="black_lcd">#FF000000</color>
+    
+    <color name="sign_hint_color">#50AAAAAA</color>
+</resources>

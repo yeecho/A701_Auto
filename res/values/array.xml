@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="adapter_item">
+        <item>TP</item>
+        <item>TP-5-Point</item>
+        <item>L-SENSOR</item>
+        <item>P-SENSOR</item>
+        <item>T-SENSOR</item>
+        <item>UART</item>
+        <item>DDR</item>
+        <item>EMMC</item>
+        <item>SD</item>
+    </string-array>
+</resources>

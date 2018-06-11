@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-result>
+    <tp>
+        <statu>pass</statu>
+    </tp>
+    <light-sensor>
+        <statu>pass</statu>
+    </light-sensor>
+    <proximity-sensor>
+        <statu>pass</statu>
+    </proximity-sensor>
+    <temperature-sensor>
+        <statu>pass</statu>
+    </temperature-sensor>
+    <ddr>
+        <statu>pass</statu>
+        <size></size>
+    </ddr>
+    <emmc>
+        <statu>pass</statu>
+        <size></size>
+    </emmc>
+    <sd>
+        <statu>pass</statu>
+        <size></size>
+    </sd>
+    <uart>
+        <statu>pass</statu>
+    </uart>
+</test-result>
